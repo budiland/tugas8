@@ -1,0 +1,13 @@
+.warning {
+  color: #ff0000;
+}
+.anjay {
+  justify-content: center;
+}
+.col-sm-4.yangdihilangin.hilang {
+  visibility: hidden;
+}
+/* input[type="radio"]:checked.anjayani + label {
+  font-weight: bold;
+} */
+/* a label that immediately follows an input of type radio that is checked  */
